@@ -1,0 +1,5 @@
+"ID","Title","Created By","Created On","Estimate","Forecast","Priority","References","Section","Section Depth","Section Description","Suite","Suite ID","Type","Updated By","Updated On"
+"C1","Register with valid cridentials","Теодор Джантов","7/8/2024 9:46 AM","","","Medium","","Test Cases","0","","User Functionalities","S1","Usability","Теодор Джантов","7/8/2024 9:48 AM"
+"C2","Login with valid credentials","Теодор Джантов","7/8/2024 9:53 AM","","","Medium","","Test Cases","0","","User Functionalities","S1","Usability","Теодор Джантов","7/8/2024 9:53 AM"
+"C3","Logout functionality","Теодор Джантов","7/8/2024 10:03 AM","","","Medium","","Test Cases","0","","User Functionalities","S1","Other","Теодор Джантов","7/8/2024 10:03 AM"
+"C4","Register with invalid email","Теодор Джантов","7/8/2024 10:06 AM","","","Medium","","Test Cases","0","","User Functionalities","S1","Functional","Теодор Джантов","7/8/2024 10:06 AM"
